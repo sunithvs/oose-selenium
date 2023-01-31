@@ -89,7 +89,7 @@ Status: True
 
 screen shots of the testing
 
-![selenium code checks the event page is available or not](Automated%20Testing%20with%20Selenium%20a081c9eae3a94462ad8426d8bda7ceb0/Untitled.png)
+![selenium code checks the event page is available or not](Untitled.png)
 
 selenium code checks the event page is available or not
 
