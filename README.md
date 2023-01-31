@@ -89,7 +89,7 @@ Status: True
 
 screen shots of the testing
 
-![selenium code checks the event page is available or not](Untitled.png)
+![selenium code checks the event page is available or not](eventpage.png)
 
 selenium code checks the event page is available or not
 
